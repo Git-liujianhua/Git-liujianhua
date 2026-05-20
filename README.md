@@ -14,10 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+<img src="https://wttr.in/杭州?format=3&m" alt="天气"/>
+</p>
+---
 
-<h1 align="center">Hi 👋, I'm Git-liujianhua</h1>
+## <span style="background: linear-gradient(90deg,#00c6ff,#0072ff);-webkit-background-clip:text;color:transparent;"><h1 align="center">Hi 👋, I'm Git-liujianhua</h1><span>
 <h3 align="center">程序员 / 摸鱼爱好者 / 喜欢折腾好玩东西</h3>
 
+---
+
+### 🎵 最近在听
+<img src="https://music-status.vercel.app/api/netease?id=填你的网易云ID"/>
+
+---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&width=435&lines=欢迎来到我的主页;每天都在GitHub摸鱼;一起探索好玩的项目" alt="Typing SVG" />
 </p>
@@ -62,3 +72,14 @@ Here are some ideas to get you started:
 - 🌱 正在学习 Java / 前端 / 各种摸鱼技巧
 - 🎮 喜欢游戏、动漫、壁纸、黑科技工具
 - 📫 欢迎找我一起玩 GitHub！
+
+---
+
+### 人生进度
+- 摸鱼进度：
+- 学习进度：
+- 快乐进度：
+
+- 🟢 目前状态：在线摸鱼
+- 🔵 主攻方向：Java 后端开发
+- 🟡 业余爱好：折腾开源、逛好玩的项目
