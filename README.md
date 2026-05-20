@@ -37,6 +37,9 @@ Here are some ideas to get you started:
 <img src="https://stats-github.vercel.app/api?username=Git-liujianhua&show_icons=true&theme=radical" />
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Git-liujianhua&color=skyblue" />
+</p>
 ---
 
 ### 🛠️ 技术栈
