@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub 数据
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Git-liujianhua&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Git-liujianhua&show_icons=true&theme=radical&cache_seconds=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-liujianhua&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-liujianhua&layout=compact&theme=radical&cache_seconds=1" />
 </p>
 
 ---
