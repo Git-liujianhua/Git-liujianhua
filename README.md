@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<span style="background: linear-gradient(90deg,#00c6ff,#0072ff);-webkit-background-clip:text;color:transparent;"><h1 align="center">Hi 👋, I'm Git-liujianhua</h1><span>
+## <h1 align="center">Hi 👋, I'm Git-liujianhua</h1>
 <h3 align="center">程序员 / 摸鱼爱好者 / 喜欢折腾好玩东西</h3>
 
 ---
