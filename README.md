@@ -15,13 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/72117448/115103311-64935700-9fa1-11eb-88a8-9c08258a6587.gif" width="600"/>
-</p>
-
----
-
-## <span style="background: linear-gradient(90deg,#00c6ff,#0072ff);-webkit-background-clip:text;color:transparent;"><h1 align="center">Hi 👋, I'm Git-liujianhua</h1><span>
+<span style="background: linear-gradient(90deg,#00c6ff,#0072ff);-webkit-background-clip:text;color:transparent;"><h1 align="center">Hi 👋, I'm Git-liujianhua</h1><span>
 <h3 align="center">程序员 / 摸鱼爱好者 / 喜欢折腾好玩东西</h3>
 
 ---
