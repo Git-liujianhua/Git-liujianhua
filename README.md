@@ -26,14 +26,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 GitHub 数据
-
-<p align="center">
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZwr/giphy.gif" width="100"/>
-</p>
-
----
-
 ### 🛠️ 技术栈
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,idea,git,vscode,github,maven,tomcat&titles=true" />
