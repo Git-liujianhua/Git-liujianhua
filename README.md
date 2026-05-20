@@ -15,14 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <p align="center">
-<img src="https://wttr.in/杭州?format=3&m" alt="天气"/>
-</p>
-
-<p align="center">
-  <img src="https://api.seniverse.com/v3/weather/now.png?location=hangzhou&language=zh&unit=c" alt="杭州天气" />
-</p> -->
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/72117448/115103311-64935700-9fa1-11eb-88a8-9c08258a6587.gif" width="600"/>
 </p>
@@ -46,22 +38,6 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZwr/giphy.gif" width="100"/>
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=git-liujianhua&show_icons=true&theme=radical&cache_seconds=1" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-liujianhua&layout=compact&theme=radical&cache_seconds=1" />
-</p>
-
-<p align="center">
-<img src="https://stats-github.vercel.app/api?username=Git-liujianhua&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Git-liujianhua&color=skyblue" />
-</p> -->
-
 ---
 
 ### 🛠️ 技术栈
@@ -83,14 +59,6 @@ Here are some ideas to get you started:
 - 🌱 正在学习 Java / 前端 / 各种摸鱼技巧
 - 🎮 喜欢游戏、动漫、壁纸、黑科技工具
 - 📫 欢迎找我一起玩 GitHub！
-
----
-
-### 📈 日常进度
-- 摸鱼进度：[90](https://progress-bar.dev/90/?width=300&color=00bfff)
-- 学习进度：[100](https://progress-bar.dev/100/?width=300&color=20c997)
-- 快乐进度：[100](https://progress-bar.dev/100/?width=300&color=ff6b81)
-
 - 🟢 目前状态：在线摸鱼
 - 🔵 主攻方向：Java 后端开发
 - 🟡 业余爱好：折腾开源、逛好玩的项目
