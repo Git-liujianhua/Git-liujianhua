@@ -15,12 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://wttr.in/杭州?format=3&m" alt="天气"/>
 </p>
 
 <p align="center">
   <img src="https://api.seniverse.com/v3/weather/now.png?location=hangzhou&language=zh&unit=c" alt="杭州天气" />
+</p> -->
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72117448/115103311-64935700-9fa1-11eb-88a8-9c08258a6587.gif" width="600"/>
 </p>
 
 ---
