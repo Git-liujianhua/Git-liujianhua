@@ -87,9 +87,9 @@ Here are some ideas to get you started:
 ---
 
 ### 📈 日常进度
-- 摸鱼进度：90
-- 学习进度：100
-- 快乐进度：100
+- 摸鱼进度：[90](https://progress-bar.dev/90/?width=300&color=00bfff)
+- 学习进度：[100](https://progress-bar.dev/100/?width=300&color=20c997)
+- 快乐进度：[100](https://progress-bar.dev/100/?width=300&color=ff6b81)
 
 - 🟢 目前状态：在线摸鱼
 - 🔵 主攻方向：Java 后端开发
