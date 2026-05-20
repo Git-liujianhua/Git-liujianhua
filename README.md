@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=Git-liujianhua&color=skyblue" />
 </p> -->
 
+---
+
 ### 🛠️ 技术栈
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,git,vscode,github&titles=true" />
