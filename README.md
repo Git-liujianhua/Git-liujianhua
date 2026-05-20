@@ -32,6 +32,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&width=435&lines=欢迎来到我的主页;每天都在GitHub摸鱼;一起探索好玩的项目" alt="Typing SVG" />
 </p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&lines=闲暇热爱折腾万物" />
+</p>
 
 ---
 
