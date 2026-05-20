@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <img src="https://music-status.vercel.app/api/netease?id=填你的网易云ID"/>
 
 ---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&width=435&lines=欢迎来到我的主页;每天都在GitHub摸鱼;一起探索好玩的项目" alt="Typing SVG" />
 </p>
@@ -55,7 +56,7 @@ Here are some ideas to get you started:
 
 ### 🛠️ 技术栈
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,git,vscode,github&titles=true" />
+  <img src="https://skillicons.dev/icons?i=java,idea,git,vscode,github,maven,tomcat&titles=true" />
 </p>
 
 ---
@@ -75,7 +76,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 人生进度
+### 📈 日常进度
 - 摸鱼进度：
 - 学习进度：
 - 快乐进度：
@@ -83,3 +84,10 @@ Here are some ideas to get you started:
 - 🟢 目前状态：在线摸鱼
 - 🔵 主攻方向：Java 后端开发
 - 🟡 业余爱好：折腾开源、逛好玩的项目
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-开发语言-orange"/>
+<img src="https://img.shields.io/badge/Git-日常使用-blue"/>
+<img src="https://img.shields.io/badge/爱好-折腾好玩-green"/>
+<img src="https://img.shields.io/badge/状态-快乐打工-pink"/>
+</p>
