@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ---
 
 ### 📊 GitHub 数据
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=git-liujianhua&show_icons=true&theme=radical&cache_seconds=1" />
 </p>
 
@@ -39,8 +39,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Git-liujianhua&color=skyblue" />
-</p>
----
+</p> -->
 
 ### 🛠️ 技术栈
 <p align="center">
