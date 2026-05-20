@@ -34,11 +34,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 🎵 最近在听
-<img src="https://y.music.163.com/m/user?id=488039073&dlt=0846&app_version=9.5.12"/>
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&pause=2000&width=700&lines=欢迎来到我的主页，每天都在GitHub摸鱼，一起探索好玩的项目" alt="Typing SVG" />
 </p> 
