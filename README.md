@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🎵 最近在听
-<img src="https://music-status.vercel.app/api/netease?id=488039073"/>
+<img src="https://y.music.163.com/m/user?id=488039073&dlt=0846&app_version=9.5.12"/>
 
 ---
 
