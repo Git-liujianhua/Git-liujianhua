@@ -14,9 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <p align="center">
 <img src="https://wttr.in/杭州?format=3&m" alt="天气"/>
 </p>
+
+<p align="center">
+  <img src="https://api.seniverse.com/v3/weather/now.png?location=hangzhou&language=zh&unit=c" alt="杭州天气" />
+</p>
+
 ---
 
 ## <span style="background: linear-gradient(90deg,#00c6ff,#0072ff);-webkit-background-clip:text;color:transparent;"><h1 align="center">Hi 👋, I'm Git-liujianhua</h1><span>
@@ -39,6 +45,11 @@ Here are some ideas to get you started:
 ---
 
 ### 📊 GitHub 数据
+
+<p align="center">
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZwr/giphy.gif" width="100"/>
+</p>
+
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=git-liujianhua&show_icons=true&theme=radical&cache_seconds=1" />
 </p>
