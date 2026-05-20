@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&pause=2000&width=800&lines=欢迎来到我的主页，每天都在GitHub摸鱼，一起探索好玩的项目" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&pause=2000&width=700&lines=欢迎来到我的主页，每天都在GitHub摸鱼，一起探索好玩的项目" alt="Typing SVG" />
 </p> 
 
 ---
