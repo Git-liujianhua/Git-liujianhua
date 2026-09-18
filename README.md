@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Git-liujianhua</h1>
-<h3 align="center">程序员 / 摸鱼爱好者 / 喜欢折腾好玩东西</h3>
+<h3 align="center">PMP持有者 / 程序员 / 摸鱼爱好者 / 喜欢折腾好玩东西</h3>
 
 ---
 
