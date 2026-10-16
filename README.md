@@ -10,9 +10,9 @@
   <b>🎖️ PMP 认证项目管理专业人士 &nbsp;|&nbsp; ☕ Java 后端开发 &nbsp;|&nbsp; 🤖 AI 探索者 &nbsp;|&nbsp; 🐟 摸鱼爱好者</b>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1200&width=760&color=E94235&center=true&vCenter=true&multiline=true&lines=用项目管理的方式写代码%3B用工程化的方式做管理%3B在+GitHub+摸鱼%2C顺便折腾点好玩的东西" alt="Typing SVG" />
-</p>
+</p> -->
 
 <div align="center">
 
