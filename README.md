@@ -73,12 +73,12 @@ AI 应用与 Agent 工作流<br/>Obsidian + Git 的第二大脑<br/>把知识沉
 ## 📊 GitHub 数据面板
 
 <div align="center">
-  <img height="170" whigth="100" src="https://github-readme-stats.vercel.app/api?username=Git-liujianhua&show_icons=true&locale=cn&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" whigth="100" src="https://github-readme-stats.vercel.app/api/top-langs?username=Git-liujianhua&locale=cn&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=Git-liujianhua&show_icons=true&locale=cn&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" /> -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Git-liujianhua&locale=cn&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </div>
 
 <div align="center">
-  <img height="150" whigth="100" src="https://github-readme-streak-stats.herokuapp.com/?user=Git-liujianhua&theme=tokyonight&hide_border=true&locale=zh_CN" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Git-liujianhua&theme=tokyonight&hide_border=true&locale=zh_CN" />
   <!-- <img height="150" src="https://github-profile-trophy.vercel.app/?username=Git-liujianhua&theme=onestar&no-frame=true&no-bg=true&margin-w=15&column=7" /> -->
 </div>
 
